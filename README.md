@@ -1,3 +1,3 @@
 # MiddleEast
-[Palestina](Palestina.md)
-[Egypte](Egypte.md)
+1. [Palestina](Palestina.md)
+2. [Egypte](Egypte.md)
