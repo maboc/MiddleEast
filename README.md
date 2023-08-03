@@ -1,2 +1,2 @@
 # MiddleEast
-Palestina
+[Palestina](Palestina.md)
